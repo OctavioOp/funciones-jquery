@@ -40,8 +40,8 @@ $("#magic").on("click", function () {
 });
 
 //extra 2
-$("form #apellido").val('..Algun apellido?');
-$("form button").after("<p>despues del boton</p>")
-$("form button").before("<p>antes del boton</p>")
+$("form #apellido").val('..last name?');
+$("form button").after("<p>after the button</p>")
+$("form button").before("<p>before the button</p>")
 
 
